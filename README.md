@@ -13,7 +13,7 @@ Prequisites
 Explanation of files
 --------
 
-The first module `Billboard.ipynb` tampers with the dataset `billboard.csv`. It is self-contained, with all information and explanations made clear in the notebook file.
+- The first module `Billboard.ipynb` tampers with the dataset `billboard.csv`. It is self-contained, with all information and explanations made clear in the notebook file.
   
 Contributors
 --------------
